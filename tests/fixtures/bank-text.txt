@@ -1,0 +1,6 @@
+Bank Statement (sanitized fixture)
+2026-10-01 12:30:00 Meituan -23.50
+2026-10-02 08:15:00 Didi -12.00
+2026-10-03 09:00:00 Zhang San 88.88
+2026-10-04 18:20:00 Hema -156.40
+2026-10-05 10:00:00 Convenience Store -5.00
